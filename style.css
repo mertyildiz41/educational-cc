@@ -1,0 +1,20 @@
+#custom-subtitles {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    pointer-events: none;
+    width: 100%;
+    top: 0;
+    position: absolute;
+}
+#native-subtitles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#learn-subtitles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

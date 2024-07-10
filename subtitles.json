@@ -1,0 +1,762 @@
+[
+    {
+        "tStartMs": 4847,
+        "dDurationMs": 5804,
+        "text": {
+            "id": [
+                "Intro"
+            ],
+            "tr": [
+                "Giriş"
+            ]
+        }
+    },
+    {
+        "tStartMs": 10795,
+        "dDurationMs": 6054,
+        "text": {
+            "id": [
+                "Terbuai",
+                "aku",
+                "hilang",
+                "terjatuh",
+                "aku",
+                "dalam"
+            ],
+            "tr": [
+                "Baştan",
+                "çıkmışım",
+                "kayboldum",
+                "düştüm",
+                "ben",
+                "içinde"
+            ]
+        }
+    },
+    {
+        "tStartMs": 16849,
+        "dDurationMs": 4207,
+        "text": {
+            "id": [
+                "Keindahan",
+                "penantian"
+            ],
+            "tr": [
+                "Beklemenin",
+                "güzelliği"
+            ]
+        }
+    },
+    {
+        "tStartMs": 22058,
+        "dDurationMs": 4715,
+        "text": {
+            "id": [
+                "Terucap",
+                "keraguan",
+                "hati",
+                "yang",
+                "bimbang"
+            ],
+            "tr": [
+                "Şüpheli",
+                "kalp",
+                "ifadesi"
+            ]
+        }
+    },
+    {
+        "tStartMs": 27208,
+        "dDurationMs": 6193,
+        "text": {
+            "id": [
+                "Yang",
+                "terhalang",
+                "kepastian",
+                "cinta"
+            ],
+            "tr": [
+                "Aşkın",
+                "kesinliğine",
+                "engel",
+                "olan"
+            ]
+        }
+    },
+    {
+        "tStartMs": 33467,
+        "dDurationMs": 11026,
+        "text": {
+            "id": [
+                "Aku",
+                "hilang"
+            ],
+            "tr": [
+                "Kayboldum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 44691,
+        "dDurationMs": 9603,
+        "text": {
+            "id": [
+                "Aku",
+                "hilang"
+            ],
+            "tr": [
+                "Kayboldum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 55994,
+        "dDurationMs": 5675,
+        "text": {
+            "id": [
+                "Tersabut",
+                "kabut",
+                "malam",
+                "terbiasnya",
+                "harapan"
+            ],
+            "tr": [
+                "Gece",
+                "sisinden",
+                "gölgelenmiş",
+                "umut"
+            ]
+        }
+    },
+    {
+        "tStartMs": 61787,
+        "dDurationMs": 5412,
+        "text": {
+            "id": [
+                "Yang",
+                "tersimpan",
+                "sejuta",
+                "bertuan"
+            ],
+            "tr": [
+                "Saklanmış",
+                "milyonlarca",
+                "sahip"
+            ]
+        }
+    },
+    {
+        "tStartMs": 67264,
+        "dDurationMs": 4736,
+        "text": {
+            "id": [
+                "Terasa",
+                "kerinduan",
+                "hati",
+                "yang",
+                "bimbang"
+            ],
+            "tr": [
+                "Şüpheli",
+                "kalbin",
+                "özlemi",
+                "hissediliyor"
+            ]
+        }
+    },
+    {
+        "tStartMs": 72203,
+        "dDurationMs": 9972,
+        "text": {
+            "id": [
+                "Yang",
+                "terhempas",
+                "kepastian",
+                "cinta"
+            ],
+            "tr": [
+                "Aşkın",
+                "kesinliğine",
+                "çarpan"
+            ]
+        }
+    },
+    {
+        "tStartMs": 82873,
+        "dDurationMs": 9969,
+        "text": {
+            "id": [
+                "Dengarkanlah",
+                "permintaan",
+                "hati",
+                "yang",
+                "teraniaya",
+                "sunyi"
+            ],
+            "tr": [
+                "Zulmedilen",
+                "kalbin",
+                "isteğini",
+                "dinleyin"
+            ]
+        }
+    },
+    {
+        "tStartMs": 93000,
+        "dDurationMs": 5783,
+        "text": {
+            "id": [
+                "Dan",
+                "berikanlah",
+                "arti",
+                "pada",
+                "hidupku"
+            ],
+            "tr": [
+                "Ve",
+                "hayatıma",
+                "anlam",
+                "kat"
+            ]
+        }
+    },
+    {
+        "tStartMs": 98849,
+        "dDurationMs": 5356,
+        "text": {
+            "id": [
+                "Yang",
+                "terhempas",
+                "yang",
+                "terlepas"
+            ],
+            "tr": [
+                "Vurulmuş",
+                "kaçmış",
+                "olanlar"
+            ]
+        }
+    },
+    {
+        "tStartMs": 104324,
+        "dDurationMs": 15736,
+        "text": {
+            "id": [
+                "Pelukanmu",
+                "bersamamu",
+                "dan",
+                "tanpamu",
+                "aku",
+                "hilang",
+                "selalu"
+            ],
+            "tr": [
+                "Kucaklaşman",
+                "seninle",
+                "ve",
+                "sensiz",
+                "hep",
+                "kaybolurum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 122327,
+        "dDurationMs": 11279,
+        "text": {
+            "id": [
+                "Aku",
+                "hilang"
+            ],
+            "tr": [
+                "Kayboldum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 133711,
+        "dDurationMs": 11148,
+        "text": {
+            "id": [
+                "Aku",
+                "hilang"
+            ],
+            "tr": [
+                "Kayboldum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 144951,
+        "dDurationMs": 5631,
+        "text": {
+            "id": [
+                "Tersabut",
+                "kabut",
+                "malam",
+                "terbiasnya",
+                "harapan"
+            ],
+            "tr": [
+                "Gece",
+                "sisinden",
+                "gölgelenmiş",
+                "umut"
+            ]
+        }
+    },
+    {
+        "tStartMs": 150700,
+        "dDurationMs": 5300,
+        "text": {
+            "id": [
+                "Yang",
+                "tersimpan",
+                "sejuta",
+                "bertuan"
+            ],
+            "tr": [
+                "Saklanmış",
+                "milyonlarca",
+                "sahip"
+            ]
+        }
+    },
+    {
+        "tStartMs": 156085,
+        "dDurationMs": 4371,
+        "text": {
+            "id": [
+                "Terasa",
+                "kerinduan",
+                "hati",
+                "yang",
+                "bimbang"
+            ],
+            "tr": [
+                "Şüpheli",
+                "kalbin",
+                "özlemi",
+                "hissediliyor"
+            ]
+        }
+    },
+    {
+        "tStartMs": 161365,
+        "dDurationMs": 7015,
+        "text": {
+            "id": [
+                "Yang",
+                "terhempas",
+                "kepastian",
+                "cinta"
+            ],
+            "tr": [
+                "Aşkın",
+                "kesinliğine",
+                "çarpan"
+            ]
+        }
+    },
+    {
+        "tStartMs": 171688,
+        "dDurationMs": 10154,
+        "text": {
+            "id": [
+                "Dengarkanlah",
+                "permintaan",
+                "hati",
+                "yang",
+                "teraniaya",
+                "sunyi"
+            ],
+            "tr": [
+                "Zulmedilen",
+                "kalbin",
+                "isteğini",
+                "dinleyin"
+            ]
+        }
+    },
+    {
+        "tStartMs": 181974,
+        "dDurationMs": 6223,
+        "text": {
+            "id": [
+                "Dan",
+                "berikanlah",
+                "arti",
+                "pada",
+                "hidupku"
+            ],
+            "tr": [
+                "Ve",
+                "hayatıma",
+                "anlam",
+                "kat"
+            ]
+        }
+    },
+    {
+        "tStartMs": 188330,
+        "dDurationMs": 5200,
+        "text": {
+            "id": [
+                "Yang",
+                "terhempas",
+                "yang",
+                "terlepas"
+            ],
+            "tr": [
+                "Vurulmuş",
+                "kaçmış",
+                "olanlar"
+            ]
+        }
+    },
+    {
+        "tStartMs": 193649,
+        "dDurationMs": 13570,
+        "text": {
+            "id": [
+                "Pelukanmu",
+                "bersamamu",
+                "dan",
+                "tanpamu",
+                "aku",
+                "hilang",
+                "selalu"
+            ],
+            "tr": [
+                "Kucaklaşman",
+                "seninle",
+                "ve",
+                "sensiz",
+                "hep",
+                "kaybolurum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 207337,
+        "dDurationMs": 12969,
+        "text": {
+            "id": [
+                "Bersamamu",
+                "dan",
+                "tanpamu",
+                "aku",
+                "hilang",
+                "selalu"
+            ],
+            "tr": [
+                "Seninle",
+                "ve",
+                "sensiz",
+                "hep",
+                "kaybolurum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 221874,
+        "dDurationMs": 5006,
+        "text": {
+            "id": [
+                "Musik"
+            ],
+            "tr": [
+                "Müzik"
+            ]
+        }
+    },
+    {
+        "tStartMs": 228396,
+        "dDurationMs": 2422,
+        "text": {
+            "id": [
+                "Untuk",
+                "Marsha",
+                "cahayaku"
+            ],
+            "tr": [
+                "Marsha",
+                "için",
+                "ışığım"
+            ]
+        }
+    },
+    {
+        "tStartMs": 231738,
+        "dDurationMs": 3302,
+        "text": {
+            "id": [
+                "Ngga",
+                "ada",
+                "kata",
+                "yang",
+                "bisa",
+                "aku",
+                "katakan",
+                "selain",
+                "maaf"
+            ],
+            "tr": [
+                "Özür",
+                "dilemek",
+                "dışında",
+                "söyleyebileceğim",
+                "bir",
+                "şey",
+                "yok"
+            ]
+        }
+    },
+    {
+        "tStartMs": 235351,
+        "dDurationMs": 1238,
+        "text": {
+            "id": [
+                "Dan",
+                "terimakasih"
+            ],
+            "tr": [
+                "Ve",
+                "teşekkürler"
+            ]
+        }
+    },
+    {
+        "tStartMs": 237419,
+        "dDurationMs": 3486,
+        "text": {
+            "id": [
+                "Sudah",
+                "memberikan",
+                "arti",
+                "di",
+                "hidupku",
+                "yang",
+                "sempit",
+                "ini"
+            ],
+            "tr": [
+                "Bu",
+                "dar",
+                "hayatıma",
+                "anlam",
+                "kattığın",
+                "için"
+            ]
+        }
+    },
+    {
+        "tStartMs": 242196,
+        "dDurationMs": 1251,
+        "text": {
+            "id": [
+                "Aku",
+                "harus",
+                "pergi"
+            ],
+            "tr": [
+                "Gitmem",
+                "gerekiyor"
+            ]
+        }
+    },
+    {
+        "tStartMs": 245108,
+        "dDurationMs": 1456,
+        "text": {
+            "id": [
+                "Bukan",
+                "meninggalkanmu"
+            ],
+            "tr": [
+                "Seni",
+                "bırakmıyorum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 247131,
+        "dDurationMs": 1611,
+        "text": {
+            "id": [
+                "Tapi",
+                "hanya",
+                "terlepas",
+                "darimu"
+            ],
+            "tr": [
+                "Sadece",
+                "senden",
+                "ayrılıyorum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 250334,
+        "dDurationMs": 2015,
+        "text": {
+            "id": [
+                "Jika",
+                "kamu",
+                "yakin",
+                "akan",
+                "ku"
+            ],
+            "tr": [
+                "Bana",
+                "inanıyorsan"
+            ]
+        }
+    },
+    {
+        "tStartMs": 252841,
+        "dDurationMs": 3080,
+        "text": {
+            "id": [
+                "Maka",
+                "memang",
+                "inilah",
+                "cara",
+                "yang",
+                "terbaik",
+                "untuk",
+                "dijalankan"
+            ],
+            "tr": [
+                "Bu",
+                "en",
+                "iyi",
+                "yol"
+            ]
+        }
+    },
+    {
+        "tStartMs": 256172,
+        "dDurationMs": 5681,
+        "text": {
+            "id": [
+                "Musik"
+            ],
+            "tr": [
+                "Müzik"
+            ]
+        }
+    },
+    {
+        "tStartMs": 262077,
+        "dDurationMs": 9773,
+        "text": {
+            "id": [
+                "Dengarkanlah",
+                "permintaan",
+                "hati",
+                "yang",
+                "teraniaya",
+                "sunyi"
+            ],
+            "tr": [
+                "Zulmedilen",
+                "kalbin",
+                "isteğini",
+                "dinleyin"
+            ]
+        }
+    },
+    {
+        "tStartMs": 272035,
+        "dDurationMs": 5895,
+        "text": {
+            "id": [
+                "Dan",
+                "berikanlah",
+                "arti",
+                "pada",
+                "hidupku"
+            ],
+            "tr": [
+                "Ve",
+                "hayatıma",
+                "anlam",
+                "kat"
+            ]
+        }
+    },
+    {
+        "tStartMs": 278023,
+        "dDurationMs": 5463,
+        "text": {
+            "id": [
+                "Yang",
+                "terhempas",
+                "yang",
+                "terlepas"
+            ],
+            "tr": [
+                "Vurulmuş",
+                "kaçmış",
+                "olanlar"
+            ]
+        }
+    },
+    {
+        "tStartMs": 283618,
+        "dDurationMs": 13995,
+        "text": {
+            "id": [
+                "Pelukanmu",
+                "bersamamu",
+                "dan",
+                "tanpamu",
+                "aku",
+                "hilang",
+                "selalu"
+            ],
+            "tr": [
+                "Kucaklaşman",
+                "seninle",
+                "ve",
+                "sensiz",
+                "hep",
+                "kaybolurum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 297613,
+        "dDurationMs": 13691,
+        "text": {
+            "id": [
+                "Bersamamu",
+                "dan",
+                "tanpamu",
+                "aku",
+                "hilang",
+                "selalu"
+            ],
+            "tr": [
+                "Seninle",
+                "ve",
+                "sensiz",
+                "hep",
+                "kaybolurum"
+            ]
+        }
+    },
+    {
+        "tStartMs": 311620,
+        "dDurationMs": 2624,
+        "text": {
+            "id": [
+                "Outro"
+            ],
+            "tr": [
+                "Çıkış"
+            ]
+        }
+    }
+]
